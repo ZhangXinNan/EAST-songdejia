@@ -1,0 +1,15 @@
+
+.vscode/
+.idea
+
+*.pyc
+*.pyo
+*.pyd
+
+geo_map_cython_lib/build/
+geo_map_cython_lib/gen_geo_map.c
+lanms/build/
+
+
+*.pth
+
